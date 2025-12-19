@@ -1,8 +1,6 @@
-# kysely-generate <!-- omit from toc -->
+# Fork of [RobinBlomberg/kysely-codegen](https://github.com/RobinBlomberg/kysely-codegen) with some additional features.
 
-> Fork of [RobinBlomberg/kysely-codegen](https://github.com/RobinBlomberg/kysely-codegen) with some additional features.
-
-Changes in this fork:
+## Changes in this fork:
 
 - PostgreSQL materialized view support (introspects materialized views alongside tables).
 - MySQL dateStrings-aware typing for DATE/DATETIME/TIMESTAMP.
@@ -10,6 +8,8 @@ Changes in this fork:
   - Now uses tsdown to build both cjs and esm outputs.
   - Uses oxlint and tsgo
 - Fixed custom import detection for override/type-mapping expressions with generics, unions, and arrays.
+
+# kysely-generate <!-- omit from toc -->
 
 `kysely-generate` generates Kysely type definitions from your database. That's it.
 
