@@ -1,6 +1,6 @@
 # kysely-generate <!-- omit from toc -->
 
-> Fork of [RobinBlomberg/kysely-codegen](https://github.com/RobinBlomberg/kysely-codegen) with some additional features. This fork lives at https://github.com/VastBlast/kysely-generate and remains MIT-licensed; see LICENSE for attribution.
+> Fork of [RobinBlomberg/kysely-codegen](https://github.com/RobinBlomberg/kysely-codegen) with some additional features.
 
 Changes in this fork:
 
